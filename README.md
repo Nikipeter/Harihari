@@ -11,9 +11,9 @@
 
 - 🎓 B.E. Electronics & Communication Engineering — PSNA College of Engineering & Technology (2025)
 - 💼 Ex-Intern @ **Bornfire Innovations** — Built backend services for a Basel II/III regulatory reporting platform (Bank of Botswana)
-- 🔭 Currently working on: **Improving my Spring Boot & Microservices skills**
-- 🌱 Currently learning: **Microservices Architecture, System Design**
-- 💬 Ask me about: **Java, Spring Boot, Oracle DB, REST APIs, Badminton 🏸**
+- 🔭 Currently working on: **Personal Spring Boot projects**
+- 🌱 Currently learning: **Spring Boot & REST API Development**
+- 💬 Ask me about: **Java, Spring Boot, Oracle DB, Badminton 🏸**
 - 📫 Reach me at: **harikvg031207@gmail.com**
 - ⚡ Fun fact: I'm a **professional badminton player** and cycling enthusiast
 
@@ -76,17 +76,6 @@
 - Built backend services for **BBRRS** — a Basel II/III regulatory return system for the Bank of Botswana
 - Implemented business logic using PL/SQL and Oracle DB for accurate data mapping
 - Designed reporting interfaces supporting automated and manual Basel return generation
-
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=hariharan-mv&show_icons=true&theme=tokyonight" alt="hariharan-mv stats" />
-</p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariharan-mv&layout=compact&theme=tokyonight" alt="top languages" />
-</p>
 
 ---
 
