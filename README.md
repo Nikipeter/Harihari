@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hariharan M V</h1>
 <h3 align="center">Java Backend Developer | Spring Boot | Oracle DB | REST APIs</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hariharan-mv&label=Profile%20views&color=0e75b6&style=flat" alt="hariharan-mv" />
-</p>
 
 ---
 
